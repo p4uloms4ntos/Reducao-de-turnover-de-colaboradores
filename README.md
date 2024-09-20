@@ -76,4 +76,4 @@ Uma pol&iacute;tica corporativa que incentiva o controle de horas extras, o dese
 
 <p dir="auto">__________________________________________________________________________________________________________________</p>
 
-<p dir="auto">Para entender como chegamos nessas conclus&otilde;es, acompanhe o&nbsp;desenvolvimento do problema proposto, algoritmo criados e t&eacute;cnicas utilizadas clicando <a href="https://github.com/p4uloms4ntos/reducao-de-turnover-de-colaboradores/blob/master/Redu%C3%A7%C3%A3o%20de%20Turnover%20dos%20Colaboradores.ipynb">aqui</a>.</p>
+<p dir="auto">Para entender como essas conclus&otilde;es foram alcan&ccedil;adas, acompanhe o&nbsp;desenvolvimento do problema proposto, algoritmo criados e t&eacute;cnicas utilizadas clicando <a href="https://github.com/p4uloms4ntos/reducao-de-turnover-de-colaboradores/blob/master/Redu%C3%A7%C3%A3o%20de%20Turnover%20dos%20Colaboradores.ipynb">aqui</a>.</p>
