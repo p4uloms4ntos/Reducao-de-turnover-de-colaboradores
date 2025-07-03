@@ -1,3 +1,7 @@
+<p dir="auto">Para entender como essas conclus&otilde;es foram alcan&ccedil;adas, acompanhe o&nbsp;desenvolvimento do problema de neg&oacute;cio&nbsp;proposto, algoritmo criados e t&eacute;cnicas utilizadas clicando <a href="https://github.com/p4uloms4ntos/reducao-de-turnover-de-colaboradores/blob/master/Redu%C3%A7%C3%A3o%20de%20Turnover%20dos%20Colaboradores.ipynb">aqui</a>.</p>
+
+<p dir="auto">__________________________________________________________________________________________________________________</p>
+
 <h1 dir="auto">Objetivo</h1>
 
 <p dir="auto">Este projeto de an&aacute;lise de dados visa utilizar um conjunto diversificado de m&eacute;todos estat&iacute;sticos para investigar e responder ao questionamento levantado pelo departamento de Gest&atilde;o de Pessoas:<strong>&nbsp;quais estrat&eacute;gias organizacionais ou fatores internos, se alterados, poderiam auxiliar na diminui&ccedil;&atilde;o da rotatividade de funcion&aacute;rios&nbsp;</strong><em>(Turnover)</em><strong>?</strong></p>
@@ -63,6 +67,4 @@ Uma pol&iacute;tica corporativa que incentiva o controle de horas extras, o dese
 
 <p dir="auto">Com base nessas pol&iacute;ticas e estrat&eacute;gias, a empresa poder&aacute; n&atilde;o apenas reduzir sua taxa de Turnover, mas tamb&eacute;m criar um ambiente organizacional mais saud&aacute;vel, sustent&aacute;vel e alinhado aos seus objetivos de longo prazo, promovendo reten&ccedil;&atilde;o de talentos e aumento dos resultados.</p>
 
-<p dir="auto">__________________________________________________________________________________________________________________</p>
 
-<p dir="auto">Para entender como essas conclus&otilde;es foram alcan&ccedil;adas, acompanhe o&nbsp;desenvolvimento do problema de neg&oacute;cio&nbsp;proposto, algoritmo criados e t&eacute;cnicas utilizadas clicando <a href="https://github.com/p4uloms4ntos/reducao-de-turnover-de-colaboradores/blob/master/Redu%C3%A7%C3%A3o%20de%20Turnover%20dos%20Colaboradores.ipynb">aqui</a>.</p>
