@@ -1,6 +1,3 @@
-Para visualizar o detalhamento de todas as etapas desenvolvidas, entender como as conclusões apresentadas a seguir foram alcançadas, acompanhe o desenvolvimento do problema de negócio proposto, algoritmo criados e técnicas utilizadas clicando
-
-
 <p dir="auto">Para visualizar o detalhamento de todas as etapas desenvolvidas, entender como as conclusões apresentadas a seguir foram alcançadas, acompanhe o desenvolvimento do problema de negócio proposto, algoritmo criados e técnicas utilizadas clicando <a href="https://github.com/p4uloms4ntos/reducao-de-turnover-de-colaboradores/blob/master/Redu%C3%A7%C3%A3o%20de%20Turnover%20dos%20Colaboradores.ipynb">aqui</a>.</p>
 
 <p dir="auto">__________________________________________________________________________________________________________________</p>
